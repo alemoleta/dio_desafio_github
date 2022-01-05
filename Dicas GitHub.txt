@@ -1,0 +1,13 @@
+Criar repositório
+Clonar repositório copiando código https
+Abrir Git Bash na pasta local
+$ git clone [código do endereço https do repositório no github]
+Fazer as alterações necessárias locais
+Adicionar todas as alterações no track do git
+$ git add . 
+Realizar o commit das alterações localmente
+$ git commit -m "comentários sobre o commit"
+Enviar o commit para o repositório no github
+$ git push origin main
+ou
+$ git push origin [nome do branch]
